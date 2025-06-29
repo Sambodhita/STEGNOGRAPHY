@@ -1,0 +1,15 @@
+--2025-06-30 00:56:18--  https://www.google.com/imgres?q=krishna%20flute%20paintings
+Resolving www.google.com (www.google.com)... 142.250.206.100, 2404:6800:4002:81f::2004
+Connecting to www.google.com (www.google.com)|142.250.206.100|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.google.com/imghp [following]
+--2025-06-30 00:56:19--  https://www.google.com/imghp
+Reusing existing connection to www.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘imgres?q=krishna flute paintings’
+
+        imgres?q     [<=>     ]       0  --.-KB/s               imgres?q=krishna     [ <=>    ]  16.07K  --.-KB/s    in 0s      
+
+2025-06-30 00:56:19 (79.1 MB/s) - ‘imgres?q=krishna flute paintings’ saved [16457]
+
